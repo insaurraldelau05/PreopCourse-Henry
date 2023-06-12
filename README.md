@@ -1,2 +1,1 @@
-# PreopCourse-Henry
-Este es un repositorio de prueba
+Este es un un proyecto de como realizar un repositorio y como clonarlo desde github a mi escritorio local
